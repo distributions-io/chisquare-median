@@ -6,8 +6,8 @@ Median
 
 The [median](https://en.wikipedia.org/wiki/median) for a [Chi-squared](https://en.wikipedia.org/wiki/Chi-squared_distribution) random variable is
 
-<div class="equation" align="center" data-raw-text="\operatorname{}\left[ X \right] = " data-equation="eq:median">
-	<img src="" alt="median for a Chi-squared distribution.">
+<div class="equation" align="center" data-raw-text="\operatorname{median}\left( X \right) \approx k\bigg(1-\frac{2}{9k}\bigg)^3" data-equation="eq:median">
+	<img src="https://cdn.rawgit.com/distributions-io/chisquare-median/dd0f0161875c4c0971d7327f421315a9b817136f/docs/img/eqn.svg" alt="Median for a Chi-squared distribution.">
 	<br>
 </div>
 
